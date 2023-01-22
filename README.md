@@ -5,7 +5,7 @@
 I'm Nisala from Srilanka, and I study Programming languages at university.I really enjoy learning languages and frameworks like to react and react native, as well as working in WordPress.You can check my Youtube account https://www.youtube.com/@nisalanimesh7529. I did this project just for fun.
 
 ## Skills and Experience
-Python / JS / HTML / CSS / C and C++ / C# / R / SQL / Matlab
+Python / JS / HTML / CSS / C and C++ / C# / R / SQL / Matlab / Java
 
 - 🔭 I’m currently working on University Of Peradeniya 
 - 🌱 I’m currently learning Programming Languages 
