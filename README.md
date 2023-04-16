@@ -7,7 +7,7 @@ I'm Viduranga Bandara from Srilanka, and I study Programming languages at univer
 ## Skills and Experience
 Python / JS / HTML / CSS / C and C++ / C# / R / SQL / Matlab / Java
 
-- 🔭 I’m currently working on University Of Peradeniya 
+- 🔭 I’m currently on University Of Peradeniya 
 - 🌱 I’m currently learning Programming Languages 
 
 
