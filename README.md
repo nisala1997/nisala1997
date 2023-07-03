@@ -2,7 +2,7 @@
 <h1 align="center">I'm Viduranga Bandara</h1>
 <h3 align="center">A Faculty of Science Undergraduate at the University of Peradeniya, Sri Lanka</h3>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" height="300">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="200">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisala1997&label=Profile%20views&color=0e75b6&style=flat" alt="jeewanthaudeshika" /> </p>
 
