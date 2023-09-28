@@ -77,6 +77,6 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Coding", "Comedy"]
 
 <p>&nbsp</p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nisala1997/nisala1997/blob/output/github-contribution-grid-snake.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=footer)
