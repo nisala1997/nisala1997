@@ -8,12 +8,47 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)
 
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning Full stack web development and web application designing**
+---
 
-- 📫 How to reach me **www.nisalanimesh12@gmail.com**
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
+
+```yaml
+name: Viduranga Bandara
+located_in: Kurunegala, Srilanka
+current_job: Undergraduate
+education:
+  [
+    "",
+    "",
+    "",
+  ]
+company: 
+
+fields_of_interests:
+  [
+    "Web Development",
+    "App Development",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "",
+    "",
+    "",
+    "",
+  ]
+  
+currently_learning: ["React Native"]
+2022 Goals: [""]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Coding", "Comedy"]
+```
+  
+---  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +68,8 @@
 
 <p>&nbsp</p>
   
-[![Jeewantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisala1997&show_icons=true&theme=transparent)](https://github.com/nisala1997/github-readme-stats)
+[![Nisala's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisala1997&show_icons=true&theme=transparent)](https://github.com/nisala1997/github-readme-stats)
+
 
 <p>&nbsp</p>
 
