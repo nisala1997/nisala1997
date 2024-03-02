@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=header&text=Hi%20There!&fontSize=60)
-![Identified defects](GitHub_Logo_White.png)
-<h1 align="center">I'm Viduranga Bandara</h1>
+<img src="github-mark-white.png" width="25" height="25">
+<img src="GitHub_Logo_White.png" width="50" height="25">
+
+
+<h1 align="left">I'm Viduranga Bandara</h1>
 <h3 align="center">A Faculty of Science Undergraduate at the University of Peradeniya, Sri Lanka</h3>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" height="200">
