@@ -24,11 +24,11 @@ located_in: Kurunegala, Srilanka
 current_job: Undergraduate
 education:
   [
-    "",
-    "",
-    "",
+    "Computer Science",
+    "Statistics",
+    "Mathematics",
   ]
-company: 
+company: ""
 
 fields_of_interests:
   [
@@ -48,7 +48,7 @@ technical_background:
   ]
   
 currently_learning: ["React Native"]
-2022 Goals: [""]
+Goals: [""]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Coding", "Comedy"]
 ```
   
