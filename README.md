@@ -16,7 +16,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
 
 ```yaml
-name: Viduranga Bandara
+name: Nisala
 located_in: Kurunegala, Srilanka
 current_job: Undergraduate
 education:
