@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&width=435&lines=Hey%2C+It's+Nisala;I+am+a+Full+Stack+Developer;I+love+reading+fiction+books;Let's+connect+and+contribute!)](https://git.io/typing-svg)
 
-<h3 align="center">A Faculty of Science Undergraduate at the University of Peradeniya, Sri Lanka</h3>
+<h3 align="center">A Faculty of Science graduate at the University of Peradeniya, Sri Lanka</h3>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" height="200">
 
